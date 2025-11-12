@@ -3,13 +3,12 @@
 An enterprise-grade cross-platform mobile application framework built with Flutter and Dart. NexaCore Mobile Platform provides a robust foundation for developing high-performance, scalable mobile applications with modern Material Design UI.
 
 ## Features
-
-- 🚀 Cross-platform support (iOS & Android)
-- 💎 Material Design 3 UI components
-- ⚡ High-performance architecture
-- 🎨 Customizable themes and styling
-- 🧪 Comprehensive widget testing
-- 📦 Modular and maintainable codebase
+- Cross-platform support (iOS & Android)
+- Material Design 3 UI components
+- High-performance architecture
+- Customizable themes and styling
+- Comprehensive widget testing
+- Modular and maintainable codebase
 
 ## Tech Stack
 
