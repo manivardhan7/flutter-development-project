@@ -1,6 +1,5 @@
-name: flutter_development_project
-description: A cross-platform mobile application built with Flutter and Dart
-publish_to: 'none'
+name: nexacore_mobile_platform
+description: NexaCore Mobile Platform - Enterprise-grade cross-platform mobile application frameworkpublish_to: 'none'
 version: 1.0.0+1
 
 environment:
